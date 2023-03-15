@@ -1,0 +1,41 @@
+#titulo{
+    display: inline-block;
+    background-color: cadetblue;
+    color: beige;
+    text-align: center;
+    width: 100%;
+    float:right;
+}
+#texto{
+    padding: 8px;
+    text-align: center;
+    font-size: 20px;
+    color: hotpink;
+}
+#img{
+    display:inline-block 
+    
+}
+#img1{
+    width: 20%;
+}
+#titulo1{
+    display: inline-block;
+    width: 70%;
+    float: right;
+}
+#parraf{
+    display: inline-block;
+    width: 70%;
+    float: right;
+}
+#parraf1{
+    display: inline-block;
+    width: 70%;
+    float: right 
+}
+#parraf2{
+    display: inline-block;
+    float: right;
+    width: 70%;
+}

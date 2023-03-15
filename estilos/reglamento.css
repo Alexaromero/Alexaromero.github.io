@@ -1,0 +1,15 @@
+#titulo{
+    color:beige;
+    text-align: center;
+    background-color:cadetblue;
+    color: beige;
+    font-family: cursive
+}
+#titulo2{
+    font-family: cursive;
+    font-size: 30px;
+    color:darkgray;
+}
+.texto1{
+    font-size: 15px;
+}
